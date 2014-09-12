@@ -12,7 +12,7 @@
 <h1>
 <p>Alejandro Covarrubias</p>
 <p>Dynamic Web Apps Portfolio</p>
-   <img src="/im/head_shot.png" alt="Alejandro Covarrubias" height="178" width="178">   
+   <img src="/img/head_shot.png" alt="Alejandro Covarrubias" height="178" width="178">   
 </h1>
 
 <h2>   
@@ -27,9 +27,14 @@
 
     <ul>
    
-        <li><a href="#">Project2</a></li>
-        <li><a href="#">Project3</a></li>
-        <li><a href="#">Project4</a></li>
+        <li><a href="http://p2.acovarru.net">View Project 2</a></li>
+        <li><a href="http://github.com/acovarru/P2">P2 on Github</a></li>
+        
+        <li><a href="http://p3.acovarru.net">View Project 3</a></li>
+        <li><a href="http://github.com/acovarru/P3">P3 on Github</a></li>
+        
+        <li><a href="http://p4.acovarru.net">View Project 4</a></li>
+        <li><a href="http://github.com/acovarru/P4">P4 on Github</a></li>
         
     </ul>
 </div>

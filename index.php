@@ -27,13 +27,13 @@
 
     <ul>
    
-        <li><a href="http://p2.acovarru.net">View Project 2</a></li>
+        <li><a href="http://p2.acovarru.me">View Project 2</a></li>
         <li><a href="http://github.com/acovarru/P2">P2 on Github</a></li>
         
-        <li><a href="http://p3.acovarru.net">View Project 3</a></li>
+        <li><a href="http://p3.acovarru.me">View Project 3</a></li>
         <li><a href="http://github.com/acovarru/P3">P3 on Github</a></li>
         
-        <li><a href="http://p4.acovarru.net">View Project 4</a></li>
+        <li><a href="http://p4.acovarru.me">View Project 4</a></li>
         <li><a href="http://github.com/acovarru/P4">P4 on Github</a></li>
         
     </ul>
